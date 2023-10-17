@@ -1,3 +1,6 @@
 def capital_letters(words: str):
-    """ Описание функции """
+    """
+    :param words: поступает строка
+    :return: все буквы в верхнем регистре
+    """
     return words.upper()
